@@ -21,20 +21,16 @@ a{
     position:absolute;
 }
 
-.center-console{
-    background-color: red;
-}
-
 body{
     background-image: url(il_fullxfull.5958164342_bftr.png);
     background-size: contain;
 }
 
 .center-console {
-    width: 100px;
-    height: 100px;
+    width: 100vh;
+    height: 150vh;
     margin: 0 auto;
-    background: red;
+    background-color: rgba(22, 131, 194, 0.990);
 }
 body {
     margin:0;
