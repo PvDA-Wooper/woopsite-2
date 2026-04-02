@@ -1,3 +1,10 @@
+*{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+
 a{
     color: red;
 }
@@ -12,4 +19,8 @@ a{
   bottom: 0;
   background-color: rgba(0,0,0,0); /* Black background with opacity */
   z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+}
+
+#bg{
+    scale: auto;
 }
